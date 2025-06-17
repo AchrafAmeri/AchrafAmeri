@@ -20,9 +20,15 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 - **Tools and Platforms :**
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40">](https://git-scm.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">](https://code.visualstudio.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">](https://www.docker.com) |
-|:---:|:---:|:---:|:---:|
-| Linux | Git | VS Code | Docker |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40">](https://git-scm.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">](https://code.visualstudio.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">](https://www.docker.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="rest" width="40" height="40">](https://www.postman.com) |
+|:---:|:---:|:---:|:---:|:---:|
+| Linux | Git | VS Code | Docker | API REST |
+
+- **Databases :**
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-sql" width="40" height="40">](https://www.oracle.com/database/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">](https://www.mysql.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40">](https://www.postgresql.org) |
+|:---:|:---:|:---:|
+| Oracle SQL | MySQL | PostgreSQL |
 
 - **Interests :** Web Development, Game Development, AI.
 
