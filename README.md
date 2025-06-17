@@ -48,11 +48,11 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ### [Daily Bank](https://github.com/IUT-Blagnac/sae2-01-devapp-2024-sae-2a3)
 Graphical application for managing clients and employees of a bank.  
-**Tech Stack:** [JavaFx]
+**Tech Stack:** [JavaFx, Oracle-SQL]
 
 ### [Nautic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
 Creation of a website for the fictional company Notic Horizon and management of its inventory.  
-**Tech Stack:** [PHP]
+**Tech Stack:** [PHP, MySQL, JS]
 
 ---
 
