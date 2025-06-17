@@ -52,7 +52,7 @@ Creation of a website for the fictional company Notic Horizon and management of 
 
 ---
 
-![Page Views](https://pageview.vercel.app/?github_user=Achraf-Ameri)
+![Page Views](https://pageview.vercel.app/?github_user=AchrafAmeri)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Have+a+Nice+Day!" alt="Typing SVG">
