@@ -8,15 +8,21 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 - **Languages :**
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">](https://www.cprogramming.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">](https://www.php.net) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">](https://www.cprogramming.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">](https://www.php.net) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">](https://www.typescriptlang.org) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Java | Python | C | PHP | JavaScript | TypeScript |
+
+- **Frameworks :**
+
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40">](https://spring.io) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40">](https://www.djangoproject.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40">](https://flutter.dev) |
 |:---:|:---:|:---:|:---:|
-| Java | Python | C | PHP |
+| Angular | Spring | Django | Flutter |
 
 - **Tools and Platforms :**
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) |
-|:---:|:---:|
-| Linux | Git |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40">](https://git-scm.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40">](https://code.visualstudio.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">](https://www.docker.com) |
+|:---:|:---:|:---:|:---:|
+| Linux | Git | VS Code | Docker |
 
 - **Interests :** Web Development, Game Development, AI.
 
@@ -51,8 +57,6 @@ Creation of a website for the fictional company Notic Horizon and management of 
 - 📧 [Email Me](mailto:mohammed.ameri@etu.univ-tlse2.fr)
 
 ---
-
-![Page Views](https://pageview.vercel.app/?github_user=AchrafAmeri)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+my+profile!;Have+a+Nice+Day!" alt="Typing SVG">
