@@ -58,7 +58,7 @@ Creation of a website for the fictional company Notic Horizon and management of 
 
 ## 🤝 Connect with Me
 
-- 🌐 [My Website]()
+- 🌐 My Website (Coming Soon)
 - 💼 [LinkedIn](https://linkedin.com/in/achrafameri)
 - 📧 [Email Me](mailto:mohammed.ameri@etu.univ-tlse2.fr)
 
