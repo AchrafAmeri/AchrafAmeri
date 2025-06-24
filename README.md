@@ -55,7 +55,7 @@ Website for the company Nautic Horizon and management of its inventory.
 **Tech Stack:** [PHP, MySQL, JS]
 
 ### [The Cyber Grill](https://github.com/AchrafAmeri/Projet-Angular-S4-2025)
-Web application for managing restaurant menus and dishes.
+Web application for managing restaurant menus and dishes.  
 **Tech Stack:** [Angular, TS, RESTapi]
 
 ---
