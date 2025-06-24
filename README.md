@@ -51,8 +51,12 @@ Graphical application for managing clients and employees of a bank.
 **Tech Stack:** [JavaFx, Oracle-SQL]
 
 ### [Nautic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
-Creation of a website for the fictional company Notic Horizon and management of its inventory.  
+Website for the company Nautic Horizon and management of its inventory.  
 **Tech Stack:** [PHP, MySQL, JS]
+
+### [The Cyber Grill](https://github.com/AchrafAmeri/Projet-Angular-S4-2025)
+Web application for managing restaurant menus and dishes.
+**Tech Stack:** [Angular, TS, RESTapi]
 
 ---
 
