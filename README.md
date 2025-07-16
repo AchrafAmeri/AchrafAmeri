@@ -51,7 +51,7 @@ Graphical application for managing clients and employees of a bank.
 **Tech Stack:** [JavaFx, Oracle-SQL]
 
 ### [Nautic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
-Website for the company Nautic Horizon and management of its inventory.  
+E-shop website for a boat selling company and management of its inventory.  
 **Tech Stack:** [PHP, MySQL, JS]
 
 ### [The Cyber Grill](https://github.com/AchrafAmeri/Projet-Angular-S4-2025)
