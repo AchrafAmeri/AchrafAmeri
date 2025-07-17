@@ -59,7 +59,7 @@ Web application for managing restaurant menus and dishes.
 **Tech Stack:** [Angular, TS, RESTapi]
 
 ### [InMyGarden](https://github.com/AchrafAmeri/InMyGarden-WS)
-A showcase website for InMyGarden, a Netherlands-based company, created to enhance its online visibility.. 
+A showcase website for InMyGarden, a Netherlands-based company, created to enhance its online visibility.  
 **Tech Stack:** [HTML, CSS, JS]
 
 ---
