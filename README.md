@@ -66,7 +66,7 @@ A showcase website for InMyGarden, a Netherlands-based company, created to enhan
 
 ## 🤝 Connect with Me
 
-- 🌐 My Website (Coming Soon)
+- 🌐 [My Website](https://achrafameri.github.io)
 - 💼 [LinkedIn](https://linkedin.com/in/achraf-ameri)
 - 📧 [Email Me](mailto:mohammed.ameri@etu.univ-tlse2.fr)
 
