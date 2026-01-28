@@ -62,7 +62,7 @@ Web application for managing restaurant menus and dishes.
 A showcase website for InMyGarden, a Netherlands-based company, created to enhance its online visibility.  
 **Tech Stack:** [HTML, CSS, JS]
 
-### [Locura4IoT VR](https://github.com/AchrafAmeri/SAE-5-01-LocURa4IoT-2025-2026)
+### [LocURa4IoT VR](https://github.com/AchrafAmeri/SAE-5-01-LocURa4IoT-2025-2026)
 VR interface for a UWB testbed that visualizes real-time sensor positioning and network performance in 3D.  
 **Tech Stack:** [Unity, C#, MQTT]
 
