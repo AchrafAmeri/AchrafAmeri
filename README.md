@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to explore, learn, and create amazing things with code.
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchrafAmeri&theme=dark&date_format=j%20M%5B%20Y%5D)
+
 ---
 
 ## 🛠️ Skills and Expertise
