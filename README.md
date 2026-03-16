@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 - **Frameworks :**
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40">](https://spring.io) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40">](https://www.djangoproject.com) | 
-|:---:|:---:|:---:|
-| Angular | Spring | Django |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40">](https://spring.io) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40">](https://www.djangoproject.com) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40">](https://symfony.com) |
+|:---:|:---:|:---:|:---:|
+| Angular | Spring | Django | Symfony |
 
 - **Tools and Platforms :**
 
