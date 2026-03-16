@@ -48,13 +48,29 @@ Welcome to my GitHub profile! I'm a passionate comp-sci student who loves to exp
 
 ## 💡 Featured Projects
 
-### [Daily Bank](https://github.com/IUT-Blagnac/sae2-01-devapp-2024-sae-2a3)
-Graphical application for managing clients and employees of a bank.  
-**Tech Stack:** [JavaFx, Oracle-SQL]
+### [LocURa4IoT VR](https://github.com/AchrafAmeri/SAE-5-01-LocURa4IoT-2025-2026)
+VR interface for a UWB testbed that visualizes real-time sensor positioning and network performance in 3D.  
+**Tech Stack:** [Unity, C#, MQTT]
+
+### [Library Manager](https://github.com/AchrafAmeri/S6.A.01-Symfony-Angular-Biblio)
+Full-stack library management application featuring a Symfony REST API back-office and a dedicated Angular member portal.  
+**Tech Stack:** [Symfony, Angular, MySQL]
 
 ### [Nautic Horizon](https://github.com/IUT-Blagnac/sae-3-01-devapp-2024-2025-G2A-9)
 E-shop website for a boat selling company and management of its inventory.  
 **Tech Stack:** [PHP, MySQL, JS]
+
+### [Bomberman 3D](https://github.com/DavidTRANMinhAnh/BombardiloCrocodilo)
+Tactical Bomberman-inspired arcade game featuring a bomb-wielding panda navigating a zombie-infested labyrinth.  
+**Tech Stack:** [Godot 4, GDScript]
+
+### [Daily Bank](https://github.com/IUT-Blagnac/sae2-01-devapp-2024-sae-2a3)
+Graphical application for managing clients and employees of a bank.  
+**Tech Stack:** [JavaFx, Oracle-SQL]
+
+### [Casse-Briques](https://github.com/AchrafAmeri/tp-casse-briques)
+Modern arcade clone of Breakout featuring 2D physics, particle systems, and animations.  
+**Tech Stack:** [Godot 4, GDScript]
 
 ### [The Cyber Grill](https://github.com/AchrafAmeri/Projet-Angular-S4-2025)
 Web application for managing restaurant menus and dishes.  
@@ -64,9 +80,7 @@ Web application for managing restaurant menus and dishes.
 A showcase website for InMyGarden, a Netherlands-based company, created to enhance its online visibility.  
 **Tech Stack:** [HTML, CSS, JS]
 
-### [LocURa4IoT VR](https://github.com/AchrafAmeri/SAE-5-01-LocURa4IoT-2025-2026)
-VR interface for a UWB testbed that visualizes real-time sensor positioning and network performance in 3D.  
-**Tech Stack:** [Unity, C#, MQTT]
+
 
 ---
 
