@@ -60,7 +60,7 @@ Full-stack library management application featuring a Symfony REST API back-offi
 E-shop website for a boat selling company and management of its inventory.  
 **Tech Stack:** [PHP, MySQL, JS]
 
-### [Bomberman 3D](https://github.com/DavidTRANMinhAnh/BombardiloCrocodilo)
+### [Bomberman 3D](https://github.com/AchrafAmeri/BombardiloCrocodilo)
 Tactical Bomberman-inspired arcade game featuring a bomb-wielding panda navigating a zombie-infested labyrinth.  
 **Tech Stack:** [Godot 4, GDScript]
 
